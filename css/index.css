@@ -319,7 +319,7 @@ body {
 }
 
 .hide {
-  display: none;
+  display: none !important;
   z-index: -5;
 }
 
